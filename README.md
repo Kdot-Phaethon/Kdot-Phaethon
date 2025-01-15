@@ -1,8 +1,10 @@
 ## Hewo! 👋
+
 🔭 I’m currently studying Computer Systems Technician in SLC Kingston, Canada 🏫
 🌱 I’m currently learning all sorts of cool stuff 😎
 🤔 I’m looking for help with anything tbh (not an expert) huhu 😭
 ⚡ Fun fact: From the 🇵🇭, loves Gaming 🎮, Food 🍕, and Music! 🎵
+
 <!--
 **Kdot-Phaethon/Kdot-Phaethon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
